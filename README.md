@@ -48,6 +48,12 @@ The projects presented in this portfolio are developed through a combination of 
 <br/>
 <br/>
 
+[Microsoft Active Directory (微軟 AD)]
+- <b>[Active Directory Administration: User, Group, OU, and Group Policy Management](https://github.com/AlmostNeverDone/AD101) <br/>
+  (AD 管理實務：使用者、群組、OU 與群組原則管理)</b>
+<br/>
+<br/>
+
 [Cloud Security & Infrastructure（雲端與基礎架構）]
 - <b>[Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/AlmostNeverDone/AZ101) <br/>
   (Azure：建立虛擬機器並部署 Web 伺服器)</b>
