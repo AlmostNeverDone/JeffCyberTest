@@ -170,6 +170,7 @@ The projects presented in this portfolio are developed through a combination of 
 [TryHackMe]
 
 - <b>[SOC Level 1 learning path SOC 1 級 學習路徑](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YQCGR4LPOS.pdf)</b>
+- <b>[Cyber Security 101 (SEC1) Certification](https://assets.tryhackme.com/certification-certificate/6a742773479b2eb85d8808cd.pdf)</b>
 - <b>[Pre Security (SEC0) Certification](https://assets.tryhackme.com/certification-certificate/6a2e4467b8337bd47f505379.pdf)</b>
 <br/>
 
